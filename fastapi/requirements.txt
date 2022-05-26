@@ -1,0 +1,9 @@
+statsmodels
+pandas
+scikit-learn
+fastapi
+uvicorn
+boto3
+botocore
+mangum==0.11.0
+matplotlib

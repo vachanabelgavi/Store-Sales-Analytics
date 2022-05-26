@@ -1,0 +1,10 @@
+pandas
+streamlit
+requests
+mangum
+matplotlib
+seaborn
+statsmodels
+plotly
+kaleido
+streamlit_option_menu
